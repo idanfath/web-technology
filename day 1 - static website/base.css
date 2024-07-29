@@ -1,0 +1,18 @@
+/* ini cuma utk hilangkan margin sama padding */
+* {margin: 0; padding: 0}
+
+/* menargetkan tag header: <header> */
+header {
+    /* warna latar */
+    background-color: purple;
+    /* warna text */
+    color: white;
+    /* kasih ketengahki teksna */
+    text-align: center;
+}
+
+/* menargetkan kelas my-class: class="my-class" */
+.my-class {
+    color: purple;
+    text-align: center;
+}
